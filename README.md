@@ -13,8 +13,8 @@
 
 ### Minhas Tecnologias
 
-![AWS](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg)
-
+<img src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"width="100px">"width="100px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"width="100px">
 
 <!--
 **lucianobseles/lucianobseles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
