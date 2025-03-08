@@ -1,12 +1,19 @@
-## Hi there 👋
+## Sejam Bem  - Vindos ao Meu Mundo!
 
-<!-- Cabeçalho -->
+![Gif do Gatinho](https://media.tenor.com/rkY5QA5c3VAAAAAM/gato-digitando.gif)
+------------
 
-*Italico* ou *Italico*
-**Negrito** ou __Negrito__
-- Lista 1
-- Lista 2
-  - Sublista
+👽 Olá, me chamo Luciano Borges!
+
+📄 Sou Analista de dados, e tenho uma graduação em analise e desenvolvivento de sistemas, atualmente estudo Power BI.
+
+📬[Acesse meu Linkedin](https://www.linkedin.com/in/luciano-seles-0ba05a8b/)
+
+--------
+
+### Minhas Tecnologias
+
+![AWS](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg)
 
 
 <!--
